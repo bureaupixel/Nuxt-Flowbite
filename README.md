@@ -1,3 +1,6 @@
+[A good alternative is Element Plus](https://github.com/bureaupixel/Nuxt-element-plus)
+
+
 # Media & Information Design - LUCA Bxl - Nuxt 3 Starter
 
 This is a template for students Media & Information Design - LUCA Bxl. It is a Nuxt based and is extended with 3 modules: [Nuxt Image](https://nuxt.com/modules/image), [Tailwind](https://nuxt.com/modules/tailwindcss) and [Color mode](https://nuxt.com/modules/color-mode)
