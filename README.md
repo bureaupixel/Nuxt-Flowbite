@@ -1,7 +1,8 @@
-# Media & Information Design - LUCA Bxl Element Plus is a good alternative for Flowbite.
+# Element Plus is a good alternative for Flowbite.
 [Check this link to get to the Nuxt_element plus repository](https://github.com/bureaupixel/Nuxt-element-plus)
 
 
+# Media & Information Design - LUCA Bxl 
 This is a template for students Media & Information Design - LUCA Bxl. It is a Nuxt based and is extended with 3 modules: [Nuxt Image](https://nuxt.com/modules/image), [Tailwind](https://nuxt.com/modules/tailwindcss) and [Color mode](https://nuxt.com/modules/color-mode)
 
 
